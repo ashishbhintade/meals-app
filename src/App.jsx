@@ -7,7 +7,7 @@ import Favorites from "./components/Favorites";
 export default function App() {
   return (
     <main>
-      {/* <Search />*/}
+      {<Search />}
       {/*<Favorites />*/}
       <Meals />
       {/*<Modal />*/}
