@@ -1,5 +1,5 @@
 import "./App.css";
-import { useGlobalContext } from "./context";
+import { useGlobalContext } from "./Context";
 import Search from "./components/Search";
 import Meals from "./components/Meals";
 import Modal from "./components/Modal";
