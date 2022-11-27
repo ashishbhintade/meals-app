@@ -1,4 +1,4 @@
-import { useGlobalContext } from "../Context";
+import { useGlobalContext } from "../context";
 import { BsHandThumbsUp } from "react-icons/bs";
 
 const Meals = () => {

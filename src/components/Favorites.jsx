@@ -1,4 +1,4 @@
-import { useGlobalContext } from "../Context";
+import { useGlobalContext } from "../context";
 const Favorites = () => {
   const { favorites, selectMeal, removeFromFavorites } = useGlobalContext();
   return (
