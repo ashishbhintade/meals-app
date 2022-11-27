@@ -1,4 +1,4 @@
-import { useGlobalContext } from "../context";
+import { useGlobalContext } from "../Context";
 const Modal = () => {
   const { selectedMeal, closeModal } = useGlobalContext();
 

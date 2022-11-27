@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useGlobalContext } from "../context";
+import { useGlobalContext } from "../Context";
 
 const Search = () => {
   const [text, setText] = useState("");
